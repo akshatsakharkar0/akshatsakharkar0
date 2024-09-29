@@ -1,4 +1,4 @@
-![logo](https://github.com/akshatsakharkar0/akshatsakharkar0/blob/main/githubprofile.png)
+![logo](https://github.com/akshatsakharkar0/akshatsakharkar0/blob/main/github_profile.png)
 <h3 align="center">A digital alchemist from India, transforming code into seamless experiences, designs into visual poetry, and stories into enchanting journeys!</h3>
 <h2 align="center">Code reflects my technical prowess, design illustrates my creative flair, and stories express the boundless realms of my imagination.</h2>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWd5NjRoajQ1dW9oMGE4d3hhMDM1a3E1MHNweHJsaHozeG14d3dhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
